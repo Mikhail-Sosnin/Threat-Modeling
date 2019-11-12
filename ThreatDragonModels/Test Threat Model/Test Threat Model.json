@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Test Threat Model",
+    "owner": "Mikhail"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Diagram1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
